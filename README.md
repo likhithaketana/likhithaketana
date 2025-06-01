@@ -1,84 +1,96 @@
-<!-- Apply Times New Roman font to the entire content -->
-<div style="font-family: 'Times New Roman', serif;">
+<h1 align="center" style="font-family: 'Playfair Display', cursive; color: #FF69B4;">Hi there, I'm Likhitha Ketana 💖</h1>
+<p align="center" style="font-family: 'Arial', sans-serif; color: #F08080;">Aspiring Full Stack Developer | UI/UX Designer | Software Engineer</p>
 
-  <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=35&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Hi+there+👋+I+am+Likhitha+Ketana!" alt="Typing SVG" />
-  </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Parisienne&size=30&pause=2000&color=F880B0&center=true&vCenter=true&width=435&lines=Code+%F0%9F%92%BB+with+Elegance+%F0%9F%92%96;Designing+with+Passion+%F0%9F%92%A1;Debugging+with+Grace+%F0%9F%92%8C;Forever+Learning+%F0%9F%8C%9F" alt="Typing SVG" />
+</p>
 
-  <h3 align="justify">
-    Aspiring Full Stack Developer, UI/UX Designer, and Software Engineer with a strong foundation in both front-end and back-end development. I am passionate about user-centered design and creating seamless, scalable applications. I enjoy leveraging technology to deliver innovative solutions, and I’m always eager to learn, collaborate, and contribute to impactful projects.
-  </h3>
+---
 
-  <hr>
+### 💁‍♀️ About Me & Fun Facts 🎀
 
-  <p><strong>📫 How to reach me:</strong> <a href="mailto:likhithaketana@gmail.com">likhithaketana@gmail.com</a></p>
+- 💄 I'm **Likhitha** — blending tech with beauty & logic with creativity  
+- 🌸 I turn wireframes into wonderful websites and scripts into seamless solutions  
+- 🧁 I’m on a sweet journey to become the kind of developer who builds with ❤️ and ships with 🚀
 
-  <hr>
+**Fun Facts** 🌈:
 
-  <h3 align="left">🌐 Connect with me:</h3>
-  <p align="left">
-    <a href="https://www.linkedin.com/in/likhithaketana/" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
-    </a>
-    <a href="https://instagram.com/likhitha_ketana" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="50" />
-    </a>
-    <a href="https://www.youtube.com/channel/UCdDm0unQiddad3KIjynFSzg" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="50" />
-    </a>
-  </p>
+- ✏️ I’m a Figma addict & love playing with typefaces  
+- ☕ I can't code without a latte and lo-fi in the background  
+- 📷 I capture moments when I’m not capturing bugs  
+- 🪄 I believe debugging is like casting a magic spell 💫
 
-  <hr>
+---
 
-  <h3 align="left">🛠️ Languages:</h3>
-  <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="50" height="50"/>
-  </p>
+### 💻 My Sparkly Tech Toolbox 🛍️
 
-  <h3 align="left">⚙️ Frontend Development:</h3>
-  <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" title="Bootstrap" width="50" height="50"/>
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" title="Tailwind CSS" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" title="React" width="50" height="50"/>
-  </p>
+#### 💅 Frontend Glam
 
-  <h3 align="left">🔧 Backend Development:</h3>
-  <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" title="Express.js" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" title="NestJS" width="50" height="50"/>
-  </p>
+![HTML5](https://img.shields.io/badge/HTML5-F4A9B8?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-FADADD?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFE6F0?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-EBC7E8?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-F5D5E6?style=for-the-badge&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-DAF5DC?style=for-the-badge&logo=tailwind-css)
 
-  <h3 align="left">🗄️ Databases:</h3>
-  <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="50" height="50"/>
-  </p>
+#### 🎀 Backend Brilliance
 
-  <h3 align="left">🖌️ UI/UX & Design:</h3>
-  <p>
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="Figma" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" title="Photoshop" width="50" height="50"/>
-  </p>
+![Node.js](https://img.shields.io/badge/Node.js-F4A9B8?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-FADADD?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-FFE6F0?style=for-the-badge&logo=mongodb)
+![Supabase](https://img.shields.io/badge/Supabase-EBC7E8?style=for-the-badge&logo=supabase)
 
-  <h3 align="left">🔬 Tools & Platforms:</h3>
-  <p>
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" title="Docker" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="50" height="50"/>
-  </p>
+#### 🧚 UI/UX Charm
 
-  <hr>
+![Figma](https://img.shields.io/badge/Figma-FFB6C1?style=for-the-badge&logo=figma)
+![Canva](https://img.shields.io/badge/Canva-FFD1DC?style=for-the-badge&logo=canva)
 
-  <h3 align="left">📊 GitHub Stats:</h3>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=likhithaketana&show_icons=true&theme=radical" alt="GitHub Stats" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=likhithaketana&theme=radical" alt="GitHub Streak" />
-  </p>
+#### 🧵 Dev Tools
 
-</div>
+![VSCode](https://img.shields.io/badge/VS%20Code-DAC4FF?style=for-the-badge&logo=visual-studio-code)
+![GitHub](https://img.shields.io/badge/GitHub-F4A9B8?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FFE6F0?style=for-the-badge&logo=postman)
+
+---
+
+### 💫 What I’m Currently Learning
+
+- 🧪 Real-time data with Supabase  
+- 💌 Authentication flows with OAuth & JWT  
+- 🪄 Micro interactions & design patterns  
+- 📦 Clean Architecture + API best practices
+
+---
+
+### ✨ My Magical Projects
+
+📁 [`Scholarly`](https://github.com/likhithaketana/scholarly) — Mentorship platform built with ✨ Next.js + Supabase  
+📁 [`ZARA UI Clone`](https://github.com/likhithaketana/zara-ui-clone) — Figma + HTML/CSS redesign 🌸  
+📁 [`YelpCamp`](https://github.com/likhithaketana/yelp-camp) — Full-stack MERN app with reviews, maps 🗺️
+
+---
+
+### 📊 GitHub Activity & Sparkle Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=likhithaketana&show_icons=true&theme=cobalt&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=likhithaketana&theme=holi-theme&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=likhithaketana&theme=react&hide_border=true" />
+</p>
+
+---
+
+### 🌐 Let’s Connect & Be Girly Geeks 💌
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F4A9B8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/likhithaketana)  
+[![Instagram](https://img.shields.io/badge/Instagram-FFD6E8?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/likhithaketana)  
+[![Twitter](https://img.shields.io/badge/Twitter-EBC7E8?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/likhithaketana)  
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-DAF5DC?style=for-the-badge&logo=notion&logoColor=white)](https://likhithaketana.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-FADADD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:
+::contentReference[oaicite:0]{index=0}
+ 
