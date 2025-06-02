@@ -37,7 +37,6 @@ I'm secretly a Disney princess waiting for my animal sidekicks to show up 🦊�
   <img src="https://img.icons8.com/color/48/express.png" title="Express.js"/>
   <img src="https://img.icons8.com/color/48/mongodb.png" title="MongoDB"/>
   <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL"/>
-  <img src="[https://cdn.jsdelivr.net/gh/supabase/supabase@master/www/icons/icon-512x512.png](https://yt3.googleusercontent.com/KVjptxDSWT7rjVfGax2TgTNVAYgplgo1z_fwaV3MFjPpcmNVZC0TIgQV030BPJ0ybCP3_Fz-2w=s900-c-k-c0x00ffffff-no-rj)" title="Supabase" height="48" />
 </p>
 
 #### 🎀 Design
@@ -51,7 +50,6 @@ I'm secretly a Disney princess waiting for my animal sidekicks to show up 🦊�
 #### 🎀 Tools
 <p>
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code"/>
-  <img src="[https://img.icons8.com/ios/50/000000/mouse-cursor.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMAoqhlxXf-36CbEskbnnPQ6S6Ra92Mx4Rjg&s)" title="Cursor AI" height="48" />
   <img src="https://img.icons8.com/color/48/docker.png" title="Docker"/>
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" title="Postman"/>
   <img src="https://img.icons8.com/color/48/microsoft-word-2019--v1.png" title="Word"/>
