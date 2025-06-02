@@ -71,23 +71,6 @@ I'm secretly a Disney princess waiting for my animal sidekicks to show up 🦊�
 
 ---
 
-### 📚 Currently Learning
-
-🌱 Exploring new tech like:  
-- Other Programming Languages with web
-- Cloud Technologies (AWS, Firebase)  
-- Advanced Design Systems  
-- Data Analytics & Visualization
-- Android & IOS Development
-
----
-
-### 📌 Projects
-
-🔗 All of my projects live here: [My GitHub Projects](https://github.com/likhithaketana)
-
----
-
 ### 💌 Connect With Me
 
 <p align="left">
@@ -99,32 +82,4 @@ I'm secretly a Disney princess waiting for my animal sidekicks to show up 🦊�
 
 📧 Email me at: **likhithaketana@gmail.com**
 
----
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=likhithaketana&theme=radical&margin-w=15&margin-h=15" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=likhithaketana&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=likhithaketana&show_icons=true&locale=en&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=likhithaketana&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=likhithaketana&label=Profile%20views&color=ff69b4&style=flat" alt="likhithaketana" />
-</p>
