@@ -73,9 +73,9 @@ I'm secretly a Disney princess waiting for my animal sidekicks to show up 🦊�
 
 <p align="left">
   <a href="https://twitter.com/likhithaketana" target="blank"><img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter" height="30"/></a>
-  <a href="https://linkedin.com/in/likhitha ketana" target="blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="30"/></a>
+  <a href="https://linkedin.com/in/likhithaketana" target="blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="30"/></a>
   <a href="https://instagram.com/likhitha_ketana" target="blank"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram" height="30"/></a>
-  <a href="https://www.youtube.com/c/likhithaketana" target="blank"><img src="https://img.icons8.com/color/48/youtube-play.png" alt="YouTube" height="30"/></a>
+  <a href="https://www.youtube.com/@LikhithaKetana" target="blank"><img src="https://img.icons8.com/color/48/youtube-play.png" alt="YouTube" height="30"/></a>
 </p>
 
 📧 Email me at: **likhithaketana@gmail.com**
