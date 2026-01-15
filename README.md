@@ -6,7 +6,7 @@ I am passionate about building elegant, user-focused web applications by combini
 I enjoy transforming ideas into impactful digital solutions and continuously learning new technologies to improve user experiences.  
 ☕ Debugging is always better with a brownie nearby.
 
-✨ *Fun fact:* I have a Disney-princess-level love for creativity and imagination 🦊🦜🦄
+✨ *Fun fact:* I’m basically a Disney princess waiting for my animal sidekicks 🦊🦜🦄
 
 ---
 
